@@ -22,3 +22,6 @@
 3. `dotnet run`  
 4. Create or log in to a user (password required), then explore the menu.
 
+## Extra
+1. 'added sln file manually'
+2. 'Added password validations'
