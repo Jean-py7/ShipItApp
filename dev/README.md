@@ -13,11 +13,11 @@
   - `ValidateStateAbbreviation` ensures proper two‑letter state codes.  
   - `ValidateEmail` ensures proper email format.  
   - `ValidatePassword` ensures a minimum of 6 characters.  
-- **Console Formatting**  
+- **Console Formatting**  0
   Colored headers, menu items, prompts, and feedback for clarity.
 
 ## Usage
-1. `cd src/ShipItApp`  
+1. 'cd (Your project path)dev/src/ShipItApp'
 2. `dotnet restore`  
 3. `dotnet run`  
 4. Create or log in to a user (password required), then explore the menu.
