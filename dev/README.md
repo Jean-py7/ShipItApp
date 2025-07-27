@@ -25,3 +25,5 @@
 ## Extra
 1. 'added sln file manually'
 2. 'Added password validations'
+
+   ****Important: The application was built in .NET 8.0.****
