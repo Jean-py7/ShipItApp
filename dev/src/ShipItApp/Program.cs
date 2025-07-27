@@ -244,7 +244,7 @@ namespace ShipItApp
         {
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("ShipItApp v1.4 – 3‑User Sample with Password");
+            Console.WriteLine("ShipItApp–3‑User Sample with Password");
             Console.WriteLine("This console application tracks users (including email & password) and allows basic account management.");
             Console.ResetColor();
 
